@@ -4,7 +4,7 @@
 #include <ch.h>
 
 // debug
-#include "serial.h"
+#include "debug.h"
 
 // ENC28J60 Control Registers
 // Control register definitions are a combination of address,
